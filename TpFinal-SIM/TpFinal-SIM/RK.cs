@@ -53,7 +53,7 @@ namespace TpFinal_SIM
             txt_x2_0.Text = Convert.ToString(0);
             txt_desde.Text = Convert.ToString(1);
             txt_hasta.Text = Convert.ToString(20);
-            txt_fin.Text = Convert.ToString(20);
+            txt_fin.Text = Convert.ToString(200);
         }
 
         private void btn_simular_Click(object sender, EventArgs e)
